@@ -1,6 +1,6 @@
 ![IMDb logo](https://github.com/brtracy/capstone_project/blob/main/img/Imdb-logo.png?raw=true)
 
-# Detecting Movie Spoilers with NLP
+# Spoiler Identification in Movie Reviews
 
 ***
 ### The Background
